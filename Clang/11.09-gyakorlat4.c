@@ -28,9 +28,27 @@ int *partition(int t[], int size)
 
   return other;
 }
-int main(void)
+int main(int argc, char *argv[])
 {
-  int t[] = {1, 2, 3, 4, 5};
+  for (int i = 0; i < argc; ++i)
+    printf("%s\n", argv[i]);
+
+  if (argc != 2)
+  {
+    printf("Usage: %s <num>\n", argv[0]);
+    return 1;
+  }
+
+  int num = atoi(argv[1]);
+
+  char word[100];
+  if (strcmp(word, "end"))
+
+    // strcmp("abc", "xyz") < 0
+    // strcmp("xyz", "abc") > 0
+    // strcmp("abc", "abc") == 0
+
+    int t[] = {1, 2, 3, 4, 5};
   int size = sizeof(t) / sizeof(t[0]);
   int *other = partition(t, size);
 
