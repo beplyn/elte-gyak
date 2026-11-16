@@ -1,0 +1,14 @@
+/home/beplyn/Projects/gyakorlatok/Progalap/DolgozokKulonbozoEletkora/bin/Debug/net10.0/DolgozokKulonbozoEletkora
+/home/beplyn/Projects/gyakorlatok/Progalap/DolgozokKulonbozoEletkora/bin/Debug/net10.0/DolgozokKulonbozoEletkora.deps.json
+/home/beplyn/Projects/gyakorlatok/Progalap/DolgozokKulonbozoEletkora/bin/Debug/net10.0/DolgozokKulonbozoEletkora.runtimeconfig.json
+/home/beplyn/Projects/gyakorlatok/Progalap/DolgozokKulonbozoEletkora/bin/Debug/net10.0/DolgozokKulonbozoEletkora.dll
+/home/beplyn/Projects/gyakorlatok/Progalap/DolgozokKulonbozoEletkora/bin/Debug/net10.0/DolgozokKulonbozoEletkora.pdb
+/home/beplyn/Projects/gyakorlatok/Progalap/DolgozokKulonbozoEletkora/obj/Debug/net10.0/DolgozokKulonbozoEletkora.GeneratedMSBuildEditorConfig.editorconfig
+/home/beplyn/Projects/gyakorlatok/Progalap/DolgozokKulonbozoEletkora/obj/Debug/net10.0/DolgozokKulonbozoEletkora.AssemblyInfoInputs.cache
+/home/beplyn/Projects/gyakorlatok/Progalap/DolgozokKulonbozoEletkora/obj/Debug/net10.0/DolgozokKulonbozoEletkora.AssemblyInfo.cs
+/home/beplyn/Projects/gyakorlatok/Progalap/DolgozokKulonbozoEletkora/obj/Debug/net10.0/DolgozokKulonbozoEletkora.csproj.CoreCompileInputs.cache
+/home/beplyn/Projects/gyakorlatok/Progalap/DolgozokKulonbozoEletkora/obj/Debug/net10.0/DolgozokKulonbozoEletkora.dll
+/home/beplyn/Projects/gyakorlatok/Progalap/DolgozokKulonbozoEletkora/obj/Debug/net10.0/refint/DolgozokKulonbozoEletkora.dll
+/home/beplyn/Projects/gyakorlatok/Progalap/DolgozokKulonbozoEletkora/obj/Debug/net10.0/DolgozokKulonbozoEletkora.pdb
+/home/beplyn/Projects/gyakorlatok/Progalap/DolgozokKulonbozoEletkora/obj/Debug/net10.0/DolgozokKulonbozoEletkora.genruntimeconfig.cache
+/home/beplyn/Projects/gyakorlatok/Progalap/DolgozokKulonbozoEletkora/obj/Debug/net10.0/ref/DolgozokKulonbozoEletkora.dll
