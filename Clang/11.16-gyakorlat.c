@@ -24,7 +24,7 @@ int main()
     strcpy(words[size], word);
     ++size;
   }
-  for (int i = 0; i < size; ++i)
+  for (size_t i = 0; i < size; ++i)
   {
     printf("%s\n", words[size - i - 1]);
     free(words[size - i - 1]);
