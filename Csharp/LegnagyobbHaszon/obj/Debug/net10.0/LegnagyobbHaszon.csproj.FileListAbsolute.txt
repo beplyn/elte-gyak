@@ -1,0 +1,14 @@
+/home/beplyn/Projects/progalap/LegnagyobbHaszon/bin/Debug/net10.0/LegnagyobbHaszon
+/home/beplyn/Projects/progalap/LegnagyobbHaszon/bin/Debug/net10.0/LegnagyobbHaszon.deps.json
+/home/beplyn/Projects/progalap/LegnagyobbHaszon/bin/Debug/net10.0/LegnagyobbHaszon.runtimeconfig.json
+/home/beplyn/Projects/progalap/LegnagyobbHaszon/bin/Debug/net10.0/LegnagyobbHaszon.dll
+/home/beplyn/Projects/progalap/LegnagyobbHaszon/bin/Debug/net10.0/LegnagyobbHaszon.pdb
+/home/beplyn/Projects/progalap/LegnagyobbHaszon/obj/Debug/net10.0/LegnagyobbHaszon.GeneratedMSBuildEditorConfig.editorconfig
+/home/beplyn/Projects/progalap/LegnagyobbHaszon/obj/Debug/net10.0/LegnagyobbHaszon.AssemblyInfoInputs.cache
+/home/beplyn/Projects/progalap/LegnagyobbHaszon/obj/Debug/net10.0/LegnagyobbHaszon.AssemblyInfo.cs
+/home/beplyn/Projects/progalap/LegnagyobbHaszon/obj/Debug/net10.0/LegnagyobbHaszon.csproj.CoreCompileInputs.cache
+/home/beplyn/Projects/progalap/LegnagyobbHaszon/obj/Debug/net10.0/LegnagyobbHaszon.dll
+/home/beplyn/Projects/progalap/LegnagyobbHaszon/obj/Debug/net10.0/refint/LegnagyobbHaszon.dll
+/home/beplyn/Projects/progalap/LegnagyobbHaszon/obj/Debug/net10.0/LegnagyobbHaszon.pdb
+/home/beplyn/Projects/progalap/LegnagyobbHaszon/obj/Debug/net10.0/LegnagyobbHaszon.genruntimeconfig.cache
+/home/beplyn/Projects/progalap/LegnagyobbHaszon/obj/Debug/net10.0/ref/LegnagyobbHaszon.dll
