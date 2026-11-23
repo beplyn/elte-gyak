@@ -18,21 +18,10 @@ struct LinkedListElement
   struct LinkedListElement *element_after;
 };
 
-union ComplexTypes
+BinaryTreeElement *Initialize()
 {
-  LinkedListElement;
-  BinaryTreeElement;
-};
-
-union ComplexTypes *Initialize(const char *typ)
-{
-  union ComplexTypes *first;
-  if (strcmp(typ, "BT"))
-    first = malloc(sizeof(BinaryTreeElement));
-  if (strcmp(typ, "LL"))
-    first = malloc(sizeof(LinkedListElement));
+  BinaryTreeElement *first;
+  first = malloc(sizeof(BinaryTreeElement));
 
   return first;
 };
-
-union
