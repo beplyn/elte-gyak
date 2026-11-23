@@ -1,15 +1,7 @@
+#include "vector.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
-typedef struct Vector
-{
-  int capacity;
-  int size;
-  size_t elem_size;
-  void *start;
-  void (*lengthen)(struct Vector *self);
-} Vector;
 
 void Vector_Lengthen(Vector *v)
 {
