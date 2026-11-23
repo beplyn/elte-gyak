@@ -28,12 +28,11 @@ void Vector_Lengthen(Vector *v)
 
 Vector Vector_Create(size_t elem_size, int initial_capacity)
 {
-  Vector v;
-  v.size = 0;
-  v.capacity = initial_capacity;
-  v.elem_size = elem_size;
-  v.start = malloc(initial_capacity * elem_size);
-  v.lengthen = Vector_Lengthen;
+  Vector v = {.size = 0,
+              .capacity = initial_capacity,
+              .elem_size = elem_size,
+              .start = malloc(initial_capacity * elem_size),
+              .lengthen = Vector_Lengthen};
   return v;
 }
 
