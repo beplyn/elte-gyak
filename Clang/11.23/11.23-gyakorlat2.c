@@ -46,5 +46,3 @@ void Vector_Push(Vector *v, const void *elem)
   memcpy(target, elem, v->elem_size);
   v->size++;
 }
-
-int main(void) { return 0; }
